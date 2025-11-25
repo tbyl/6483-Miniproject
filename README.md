@@ -1,3 +1,3 @@
 # 6483-Miniproject
 NTU EEE 6483 MiniProject
-[6483-Miniproject/6483-1.png](https://github.com/tbyl/6483-Miniproject/blob/main/6483-1.png)
+![NTU EEE 6483 MiniProject Model](https://raw.githubusercontent.com/tbyl/6483-Miniproject/main/6483-1.png)
